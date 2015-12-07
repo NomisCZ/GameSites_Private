@@ -1,0 +1,89 @@
+public AddFilesToDownloadList()
+{
+  AddFileToDownloadsTable("models/player/mapeadores/morell/joker/joker.dx90.vtx");
+  AddFileToDownloadsTable("models/player/mapeadores/morell/joker/joker.mdl");
+  AddFileToDownloadsTable("models/player/mapeadores/morell/joker/joker.vvd");
+  AddFileToDownloadsTable("models/player/mapeadores/morell/joker/joker.phy");
+  AddFileToDownloadsTable("materials/models/player/mapeadores/morell/joker/slow_joker.vmt");
+  AddFileToDownloadsTable("materials/models/player/mapeadores/morell/joker/slow_joker.vtf");
+  AddFileToDownloadsTable("materials/models/player/mapeadores/morell/joker/slow_joker_bump.vtf");
+  AddFileToDownloadsTable("materials/models/player/mapeadores/morell/joker/slow_joker_buttons.vmt");
+  AddFileToDownloadsTable("materials/models/player/mapeadores/morell/joker/slow_joker_clothes.vmt");
+  AddFileToDownloadsTable("materials/models/player/mapeadores/morell/joker/slow_joker_clothes_fx.vmt");
+  AddFileToDownloadsTable("materials/models/player/mapeadores/morell/joker/slow_joker_clothes_green.vmt");
+  AddFileToDownloadsTable("materials/models/player/mapeadores/morell/joker/slow_joker_eyes.vmt");
+  AddFileToDownloadsTable("materials/models/player/mapeadores/morell/joker/slow_joker_flower.vmt");
+  AddFileToDownloadsTable("materials/models/player/mapeadores/morell/joker/slow_joker_hands.vmt");
+  AddFileToDownloadsTable("materials/models/player/mapeadores/morell/joker/slow_joker_head.vmt");
+  AddFileToDownloadsTable("materials/models/player/mapeadores/morell/joker/slow_joker_head.vtf");
+  AddFileToDownloadsTable("materials/models/player/mapeadores/morell/joker/slow_joker_head_bump.vtf");
+  AddFileToDownloadsTable("materials/models/player/mapeadores/morell/joker/slow_joker_shirt.vmt");
+  AddFileToDownloadsTable("materials/models/player/mapeadores/morell/joker/slow_joker_shoes.vmt");
+  AddFileToDownloadsTable("materials/models/player/mapeadores/morell/joker/slow_joker_socks.vmt");
+
+  AddFileToDownloadsTable("materials/overlays/GameSites/jokervyhral.vmt");
+  AddFileToDownloadsTable("materials/overlays/GameSites/jokervyhral.vtf");
+
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_belt_d.vmt");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_cape_d.vmt");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_cape2_d.vmt");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_cowl_d.vmt");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_gloves_d.vmt");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_hardleather_d.vmt");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_head_d.vmt");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_lacquered_underlayer_d.vmt");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_leather_1_d.vmt");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_leather_2_d.vmt");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_metal_1_d.vmt");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_metal_2_d.vmt");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_nanosuit_d.vmt");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_rubber_d.vmt");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_wetline_d.vmt");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/eye_high.vmt");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_belt_d.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_belt_normal.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_cape_d.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_cape_normal.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_cowl_d.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_cowl_normal.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_gloves_d.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_gloves_normal.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_hardleather_d.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_hardleather_normal.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_head_d.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_head_normal.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_lacquered_underlayer_d.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_lacquered_underlayer_normal.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_leather_1_d.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_Leather_1_normal.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_leather_2_d.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_leather_2_normal.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_metal_1_d.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_metal_1_normal.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_metal_2_d.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_metal_2_normal.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_nanosuit_d.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_nanosuit_normal.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_rubber_d.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_rubber_normal.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/batman_bm3_v2_wetline_d.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/eyes.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/eyes_normal.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/leather_warp.vtf");
+  AddFileToDownloadsTable("materials/models/player/kuristaja/ak/batman/nano_warp.vtf");
+  AddFileToDownloadsTable("models/player/kuristaja/ak/batman/batman.dx90.vtx");
+  AddFileToDownloadsTable("models/player/kuristaja/ak/batman/batman.mdl");
+  AddFileToDownloadsTable("models/player/kuristaja/ak/batman/batman.phy");
+  AddFileToDownloadsTable("models/player/kuristaja/ak/batman/batman.vvd");
+  AddFileToDownloadsTable("models/player/kuristaja/ak/batman/batman_arms.dx90.vtx");
+  AddFileToDownloadsTable("models/player/kuristaja/ak/batman/batman_arms.mdl");
+  AddFileToDownloadsTable("models/player/kuristaja/ak/batman/batman_arms.vvd");
+}
+public PrecacheModels()
+{
+  PrecacheDecal("overlays/GameSites/jokervyhral.vtf", true);
+  PrecacheDecal("overlays/GameSites/jokervyhral.vmt", true);
+  PrecacheModel("models/player/mapeadores/morell/joker/joker.mdl");
+  PrecacheModel("models/player/kuristaja/ak/batman/batman.mdl");
+  PrecacheModel("models/player/kuristaja/ak/batman/batman_arms.mdl");
+}
